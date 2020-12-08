@@ -1,2 +1,2 @@
-# Number-Guessing-Game-C-
+# Number-Guessing-Game-Cpp
 A c++ number guessing game
